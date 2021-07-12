@@ -21,7 +21,7 @@
 - Windows Alarm
 - Yazıdan Sese
 - Sesten Yazıya
-- Item 9
+- Rastgele Karar
 - Item 10
 
 # Level 3 #
