@@ -22,41 +22,41 @@
 - Yazıdan Sese
 - Sesten Yazıya
 - Rastgele Karar
-- Item 10
+- Telefon Rehberi
 
 # Level 3 #
 - Sudoku Çözücü
 - Metin Benzerliği Ölçer
-- Item 3
-- Item 4
-- Item 5
-- Item 6
-- Item 7
-- Item 8
-- Item 9
-- Item 10
+- Binary Search Algorithm
+- YouTube Video Downloader
+- Reddit Bot
+- Yılan Oyunu
+- Speed Typing Test
+- Image Resizer
+- Matris İşlemleri
+- Text Editor
 
 # Level 4 #
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-- Item 6
-- Item 7
-- Item 8
-- Item 9
-- Item 10
+- Regex Query Websites
+- FastAPI - Todo List
+- Django Chat App
+- Django Hastane Yönetim Sistemi
+- Resume Builder
+- Django Blog Website
+- Chatbot
+- Image Caption Generator
+- Scrape Wikipedia
+- Bitcoin Price Notifications
 
 # Level 5 #
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-- Item 6
-- Item 7
-- Item 8
-- Item 9
-- Item 10
+- Handwritten Digits Recognition
+- Sentiment Analysis
+- Movie Recommendation System
+- Fake News Detection
+- Face Recognition
+- Gender and Age Detection
+- Cat - Dog Classifier
+- Human Emotion Recognition
+- Business Card Scanner
+- Business card scanner
 
