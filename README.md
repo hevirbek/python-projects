@@ -58,5 +58,5 @@
 - Cat - Dog Classifier
 - Human Emotion Recognition
 - Business Card Scanner
-- Business card scanner
+- Irıs Flower Classification
 
